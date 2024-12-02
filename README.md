@@ -18,3 +18,29 @@ Configured shared drives with granular access control, enhancing security and co
 Enforced GPOs to secure access permissions and reduce security risks.
 
 
+![Create Win server environment in Virtual Box](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/1.Create%20Win%20server%20enivorment%20in%20Virtual%20Box.png)
+
+![Create admin backup](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/2.Create%20admin%20backup.png)
+
+![Add Jessica to Admin group](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/3.Add%20Jessica%20to%20Admin%20group.png)
+
+![Create Standard user David](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/4.Create%20Standard%20user%20David.png)
+
+![Install AD DS-DHCP-DNS-WDS](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/6.Install%20AD%20DS-DHCP-DNS-WDS.png)
+
+![Create new domain Macrosoft](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/7.Create%20new%20domain%20Macrosoft.png)
+
+![Create DHCP scope](https://github.com/GreggNicholas/Windows-Server-Active-Directory/blob/main/8.create%20DHCP%20scope.png?raw=true)
+
+![Create OU's and security groups](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/9.Create%20ou_s%20and%20security%20groups.png)
+
+![Add Users to respective groups](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/10.Add%20Users%20to%20respective%20groups.png)
+
+![Create a shared folder,edit security settings to allow respective ou access](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/11.Create%20a%20shared%20folder,edit%20security%20settings%20to%20allow%20respective%20ou%20access.png)
+
+![Map drives to respective OU](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/12.Map%20drives%20to%20respective%20OU.png)
+
+![Create GPO to disable access control panel access for sales](https://github.com/GreggNicholas/Windows-Server-Active-Directory/blob/main/13.Create%20GPO%20to%20disable%20access%20control%20panel%20acess%20for%20sales.png?raw=true)
+
+![Link GPO's to OU](https://github.com/GreggNicholas/Windows-Server-Active-Directory/raw/main/14.Link%20GPO_s%20to%20OU.png)
+
